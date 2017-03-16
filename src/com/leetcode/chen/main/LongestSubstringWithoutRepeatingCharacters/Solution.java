@@ -3,9 +3,6 @@
  */
 package com.leetcode.chen.main.LongestSubstringWithoutRepeatingCharacters;
 
-import java.util.LinkedHashMap;
-import java.util.Map;
-
 /**
  * @Title Longest substring without repeating characters
  * @Description
