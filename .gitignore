@@ -73,3 +73,6 @@ fabric.properties
 target/
 logs/
 .settings/
+.idea/
+.classpath
+.project
